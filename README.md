@@ -1,4 +1,4 @@
-# SPPOM-STARKNET-INFRA-
+# SPPOM-STARKNET-INFRA
 
 ## Solar PV Positioning Optimizer Module (ZKML - powered)
 The ZKML-powered Solar PV Positioning Optimizer Module ensures efficient solar energy use through data-driven reporting and precise PV positioning in the pre-installation phase.
