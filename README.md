@@ -3,9 +3,6 @@
 ## Solar PV Positioning Optimizer Module (ZKML - powered)
 The ZKML-powered Solar PV Positioning Optimizer Module ensures efficient solar energy use through data-driven reporting and precise PV positioning in the pre-installation phase.
 
-### Hackathon Link
-[Starknet Infra Hackathon](https://taikai.network/starkware/hackathons/starknet-infra-hackathon)
-
 ## Hardware Design
 
 ![Outer Design](https://github.com/John-Embate/SPPOM-STARKNET-INFRA/assets/72902619/97b45b85-b1ed-4aac-a65c-c3a1b6a61ba9)
